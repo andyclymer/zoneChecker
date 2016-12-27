@@ -32,7 +32,7 @@
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 		<key>repository</key>
-		<string>LettError/ZoneChecker</string>
+		<string>LettError/zoneChecker</string>
 		<key>summary</key>
 		<string>Highlight points that are very close to alignment zones.</string>
 	</dict>
