@@ -6,7 +6,6 @@ from mojo.drawingTools import *
 from mojo.UI import UpdateCurrentGlyphView
 from defconAppKit.windows.baseWindow import BaseWindowController
 
-from gaussTools import *
 import vanilla
 
 from mojo.extensions import ExtensionBundle
